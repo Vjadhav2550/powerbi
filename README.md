@@ -1,2 +1,2 @@
 # powerbi
-powerbi
+powerBI
